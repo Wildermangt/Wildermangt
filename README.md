@@ -2,7 +2,7 @@
 
 ### Software Development | Backend | Software Architecture | Technology Integration
 
-**Tecnólogo en Desarrollo de Software** · Bogotá, Colombia · Actualmente en AVC Contractor, integrando tecnología para entornos corporativos.
+**Tecnología en Desarrollo de Software** · Bogotá, Colombia · Actualmente en AVC Contractor, integrando tecnología para entornos corporativos.
 
 ---
 
@@ -23,7 +23,7 @@ Los proyectos de la familia **Nexcode** incluyen APK instalable disponible desde
 
 ## Quién soy
 
-Estudio **Desarrollo de Software en la Universidad de San Buenaventura** y trabajo en dirección e integración de proyectos tecnológicos para entornos corporativos.
+Curso **Tecnología en Desarrollo de Software en la Universidad de San Buenaventura** y trabajo en dirección e integración de proyectos tecnológicos para entornos corporativos.
 
 Mi perfil combina el **desarrollo de software, la arquitectura de soluciones, la automatización y la integración de tecnologías**, con una perspectiva orientada a resolver problemas reales de negocio.
 
@@ -162,7 +162,7 @@ Esta experiencia constituye el contexto empresarial desde el cual he desarrollad
 ## Formación
 
 **Universidad de San Buenaventura — Bogotá, Colombia**
-Desarrollo de Software
+Tecnología en Desarrollo de Software
 **5.º semestre aprobado | 6.º semestre en curso**
 
 Formación complementaria y técnica en:
