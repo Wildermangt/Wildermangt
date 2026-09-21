@@ -50,4 +50,6 @@ Varios repositorios son trabajo académico y están marcados como tal. Prefiero 
 note la diferencia entre un ejercicio de clase y algo que está en producción, en vez
 de presentarlo todo con el mismo peso.
 
+📄 **[Mi hoja de vida](https://wildermangt.github.io/Hoja-de-vida/)** — en línea, con versión optimizada para filtros ATS y ambas en PDF
+
 📍 Bogotá, Colombia
