@@ -2,13 +2,7 @@
 
 ### Software Development | Backend | Software Architecture | Technology Integration
 
-**Tecnologo en Desarrollo de Software en la Universidad de San Buenaventura**, con experiencia profesional en dirección e integración de proyectos tecnológicos para entornos corporativos.
-
-Mi perfil combina el **desarrollo de software, la arquitectura de soluciones, la automatización y la integración de tecnologías**, con una perspectiva orientada a resolver problemas reales de negocio.
-
-Me interesa especialmente el punto donde el código deja de ser un ejercicio académico y comienza a convertirse en una solución útil: automatizar procesos, transformar datos en información confiable, diseñar servicios que puedan crecer y construir sistemas que sean mantenibles más allá del primer lanzamiento.
-
-Mi objetivo profesional es evolucionar hacia posiciones de **Software Engineer y, progresivamente, Software Architect**, participando en el diseño de sistemas robustos, escalables, seguros y orientados a las necesidades reales de las organizaciones.
+**Tecnólogo en Desarrollo de Software** · Bogotá, Colombia · Actualmente en AVC Contractor, integrando tecnología para entornos corporativos.
 
 ---
 
@@ -16,7 +10,7 @@ Mi objetivo profesional es evolucionar hacia posiciones de **Software Engineer y
 
 | Proyecto                                                                            | Descripción                                                                                                                                                                                                         | Tecnologías                         |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **[nexcode-control-gastos](https://github.com/Wildermangt/nexcode-control-gastos)** | Aplicación multiplataforma para gestión de gastos, diseñada para funcionar sin cuenta ni servidor. Incluye un dominio desacoplado y 51 pruebas ejecutables en JVM y JavaScript.                                     | Kotlin · Compose · KMP · Room       |
+| **[nexcode-control-gastos](https://github.com/Wildermangt/nexcode-control-gastos)** | Aplicación Android para gestión de gastos, diseñada para funcionar sin cuenta ni servidor. El dominio está aislado en un módulo Kotlin Multiplatform, lo que permite ejecutar sus 51 pruebas en JVM y JavaScript sin emulador.                                     | Kotlin · Compose · KMP · Room       |
 | **[nexcode-bank](https://github.com/Wildermangt/nexcode-bank)**                     | Plataforma de banca digital con transferencias, bolsillos, préstamos, seguros, remesas y pagos mediante QR. La lógica de negocio está implementada en Java puro y puede probarse independientemente de la interfaz. | Java · Android · Clean Architecture |
 | **[nexcode-marketplace](https://github.com/Wildermangt/nexcode-marketplace)**       | Marketplace con múltiples roles, catálogo, carrito de compras, calificaciones y comunicación entre usuarios.                                                                                                        | Kotlin · Firebase · Firestore       |
 | **[pokedex-maui](https://github.com/Wildermangt/pokedex-maui)**                     | Aplicación multiplataforma desarrollada como cliente de la PokeAPI.                                                                                                                                                 | C# · .NET MAUI · REST API           |
@@ -26,27 +20,42 @@ Los proyectos de la familia **Nexcode** incluyen APK instalable disponible desde
 
 ---
 
+## Quién soy
+
+Estudio **Desarrollo de Software en la Universidad de San Buenaventura** y trabajo en dirección e integración de proyectos tecnológicos para entornos corporativos.
+
+Mi perfil combina el **desarrollo de software, la arquitectura de soluciones, la automatización y la integración de tecnologías**, con una perspectiva orientada a resolver problemas reales de negocio.
+
+Me interesa especialmente el punto donde el código deja de ser un ejercicio académico y comienza a convertirse en una solución útil: automatizar procesos, transformar datos en información confiable, diseñar servicios que puedan crecer y construir sistemas que sean mantenibles más allá del primer lanzamiento.
+
+Mi objetivo profesional es evolucionar hacia posiciones de **Software Engineer y, progresivamente, Software Architect**, participando en el diseño de sistemas robustos, escalables, seguros y orientados a las necesidades reales de las organizaciones.
+
+---
+
 ## Áreas de desarrollo
 
 ### Backend & Software Architecture
 
 Mi principal interés está en el desarrollo de sistemas backend y en las decisiones arquitectónicas que permiten construir software mantenible y escalable.
 
-Trabajo y estudio conceptos relacionados con:
+**Lo que he aplicado en proyectos propios:**
 
-* Java y Python
+* Java, Python, Kotlin y TypeScript
 * APIs REST
-* Arquitectura limpia
-* Patrones de diseño
-* Programación orientada a objetos
-* Microservicios
-* Persistencia y bases de datos
-* Integración entre servicios
+* Arquitectura limpia y separación en capas
+* Patrones de diseño y programación orientada a objetos
+* Persistencia: PostgreSQL, MySQL, SQLite y Room
 * Diseño de componentes desacoplados
 * Testing y validación de lógica de negocio
-* Seguridad aplicada al desarrollo
-* Docker y tecnologías de contenedores
-* Cloud Computing
+* **Docker y Docker Compose** — orquestación de varios servicios con
+  comprobaciones de salud, dependencias condicionadas y contenedores
+  efímeros para ejecución aislada de código
+* Colas de trabajo y procesamiento asíncrono con Redis
+* Integración entre servicios y APIs de terceros
+
+**Lo que estoy incorporando ahora:** microservicios, Kubernetes y cloud.
+Lo separo a propósito: prefiero decir en qué punto estoy que insinuar un
+nivel que todavía no puedo demostrar con código.
 
 Busco que la arquitectura sea una herramienta para resolver problemas y no simplemente una colección de patrones aplicada sin contexto.
 
@@ -182,9 +191,11 @@ Clean Architecture
         ↓
 Design Patterns
         ↓
+Docker / Compose          ← ya aplicado
+        ↓
 Microservices
         ↓
-Docker / Kubernetes
+Kubernetes
         ↓
 Cloud Computing
         ↓
