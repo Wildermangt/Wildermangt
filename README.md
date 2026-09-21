@@ -18,7 +18,7 @@ en una base de datos que no miente sobre la calidad de sus propios datos.
 |---|---|---|
 | **[nexcode-control-gastos](https://github.com/Wildermangt/nexcode-control-gastos)** | Control de gastos que funciona sin cuenta ni servidor. El dominio es Kotlin Multiplatform y sus 51 pruebas corren en JVM y JavaScript | Kotlin · Compose · Room · KMP |
 | **[nexcode-bank](https://github.com/Wildermangt/nexcode-bank)** | Banca digital completa: transferencias, bolsillos, préstamos, seguros, remesas y QR. Dominio en Java puro, probado sin emulador | Java · Android · Arquitectura limpia |
-| **[nexcode-marketplace](https://github.com/Wildermangt/nexcode-marketplace)** | Marketplace con dos roles sobre un mismo catálogo, carrito, calificaciones y chat | Java · Firebase · Firestore |
+| **[nexcode-marketplace](https://github.com/Wildermangt/nexcode-marketplace)** | Marketplace con dos roles sobre un mismo catálogo, carrito, calificaciones y chat | Kotlin · Firebase · Firestore |
 | **[pokedex-maui](https://github.com/Wildermangt/pokedex-maui)** | Cliente multiplataforma de la PokeAPI | .NET MAUI · C# |
 | **[sv-services](https://github.com/Wildermangt/sv-services)** | Plataforma web de gestión de servicios | Firebase · JavaScript |
 
